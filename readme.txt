@@ -2,7 +2,7 @@
 This package provides Matlab code for fitting a smooth surface to a possibly noisy point cloud in 3D space under the assumption that the data can be modeled as the graph of a smooth function over a bounded domain contained in a plane. The software has been tested on Matlab 2013b, but it should work on other versions of Matlab as well. The software is provided as a supplement to the paper:
  Q. Xu, H. Jamniczky, D. Hu, R.M. Green, R.S. Marcucio, B. Hallgrimsson, and W. Mio. Correlations between the morphology of sonic hedgehog expression domains and embryonic craniofacial shape, to appear in Evolutionary Biology
 
-You are welcome to use the software freely. If you use it for a publication, we would appreciate an acknowledgement by referencing our paper.Contact: Qiuping Xu at qxu at math.fsu.edu
+You are welcome to use the software freely. If you use it for a publication, we would appreciate an acknowledgement by referencing our paper.Contact: Qiuping Xu at qx0731 at gmail dot com
 -------------------------------------------
 
 Below you will find step-by-step user instructions, as well as instructions for running a demo that fits a smooth surface to noisy gene expression data. The input to the software should be a (noisy) point cloud and the output will be a “smooth” mesh that interpolates the point cloud data.
